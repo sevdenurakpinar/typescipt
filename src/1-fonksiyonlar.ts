@@ -23,7 +23,7 @@ function kardesPayi(name:string):string {
     
 }
 
-console.log(kardesPayi("beyza")); 
+console.log(kardesPayi("sevde")); 
 
 
 // **********************************************
